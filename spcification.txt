@@ -1,0 +1,24 @@
+List of 10+ distinct HTML tags
+h1-h5
+main
+p
+a
+div
+button
+ul
+li
+image
+iframe
+
+
+List of 5 CSS properties
+back-ground image(body);
+text-align
+color
+font-size
+margin-left
+margin-right
+
+Use of JS and Bootstrap in creating this code:
+I used bootstrap to make the page more mobile friendly by including meta data.
+JS is used to add an effect on hovering over certain text

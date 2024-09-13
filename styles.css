@@ -1,0 +1,50 @@
+body{
+    background-image: url(background1.jpg);
+}
+
+#intro
+{
+    text-align: center;
+    color: black;
+}
+
+#name
+{
+    font-size: 20;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.links
+{
+    text-align: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.section {
+    padding: 0.5rem 2rem 1rem 2rem;
+}
+
+.section:hover {
+    background-color: #f5f5f5;
+    transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+.mainbody{
+    text-color: white
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
